@@ -1,4 +1,4 @@
-**# 📊 Student Performance Analysis System
+# 📊 Student Performance Analysis System
 
 A data analysis project built using **NumPy** and **Pandas** to analyze student performance, generate insights, and make basic predictions.
 
